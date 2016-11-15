@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "4.8.*",
+        "guzzlehttp/guzzle": "6.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "StackoverflowApiClient\\": "src/"
+        }
+    }
+}
